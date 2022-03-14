@@ -2,7 +2,7 @@
 - 🔭 Buscando a primeira vaga de desenvolvedor 
 - 🌱 Estudando javaScript, nodejs e typescript
 - 😄 Pronouns: ele/dele
-- ✔ Conhecimento básico de HTML e CSS
+- ✔ Conhecimento nas linguagens abaixo
 
 ##
 
