@@ -1,6 +1,6 @@
 
 - 🔭 Buscando a primeira vaga de desenvolvedor 
-- 🌱 Estudando javaScript e nodejs
+- 🌱 Estudando javaScript e react
 - 😄 Pronouns: ele/dele
 - ✔ Conhecimento nas linguagens abaixo
 
