@@ -1,7 +1,6 @@
 ''
 - 🔭 Buscando uma vaga de desenvolvedor Front-end Junior
 - 🌱 Estudando javaScript e react
-- 😄 Pronouns: ele/dele
 - ✔ Conhecimento nas linguagens abaixo
 
 ##
